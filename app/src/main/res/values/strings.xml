@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">githubApp</string>
+    <string name="welcome">welcome</string>
+    <string name="settings">settings</string>
+    <string name="logout">logout</string>
+    <string name="search">Search</string>
+    <string name="Repository_Name">Repository Name</string>
+    <string name="Repository_Descriotion">Repository Descriotion</string>
+    <string name="Nb_Stars">Nb Stars</string>
+    <string name="Nb_Issues">Nb_Issues</string>
+
+</resources>
